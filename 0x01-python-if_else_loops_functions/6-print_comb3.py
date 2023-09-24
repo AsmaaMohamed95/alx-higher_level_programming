@@ -5,4 +5,3 @@ for i in range(0, 10):
             print(f"{i}{x}, ", end="")
         elif i < x:
             print(f"{i}{x}")
-        
